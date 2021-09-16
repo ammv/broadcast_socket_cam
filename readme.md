@@ -21,4 +21,5 @@ How to get started:
 The code was checked on a laptop and a phone. A file was running on the laptop cam.py, on the phone get_cam.py.
 
 To run the code on the phone(Android), the Pydroid 3 application was used.
+
 Many thanks to the creators https://github.com/ekbanasolutions/numpy-using-socket
